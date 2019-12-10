@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593932322437",
+    "firebase_url": "https://driverlicensescanner.firebaseio.com",
+    "project_id": "driverlicensescanner",
+    "storage_bucket": "driverlicensescanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593932322437:android:82013d2e3945216b10cbec",
+        "android_client_info": {
+          "package_name": "com.basicmoon.firebasedriverlicensescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593932322437-j50m4u9sn4na40ep1cnguvs1mc9r83c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXnHc-SqCTPS_19bGaNsGOK4Vicsn0rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593932322437-j50m4u9sn4na40ep1cnguvs1mc9r83c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
